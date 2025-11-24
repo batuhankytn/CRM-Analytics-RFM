@@ -71,4 +71,5 @@ rfm_analizi.py: Kural tabanlı segmentasyonu başlatmak için.
 
 rfm_kmeans.py: Yapay zeka modelini eğitmek ve çalıştırmak için.
 
-Bu çalışma, veri odaklı karar alma (Data-Driven Decision Making) süreçlerini optimize etmek için @kullaniciadi tarafından geliştirilmiştir.
+
+Bu çalışma, veri odaklı karar alma (Data-Driven Decision Making) süreçlerini optimize etmek için @batuhankytn tarafından geliştirilmiştir.
